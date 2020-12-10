@@ -22,3 +22,5 @@ Our final project will use the terminal to input a command and have a group of e
 >* Creation of robot controllers using Python
 >* Working in a team environment using Agile Methodologies
 >* Using GitHub for Version Control of Project 
+
+**Refer to the 'Planning & Documentation' Folder for a more in-depth explanation of the implementation.
